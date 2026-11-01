@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "year": 2019,
+  "records": 244355,
+  "cube_rows": 201050,
+  "departments": 33,
+  "territories_with_records": 1110,
+  "x95_deaths": 9273,
+  "unknown_sex": 93,
+  "unknown_age": 23,
+  "unmatched_causes": {},
+  "missing_values_original": {
+    "ESTADO_CIVIL": 1
+  },
+  "sources": {
+    "mortality": {
+      "name": "Anexo1.NoFetal2019_CE_15-03-23.xlsx",
+      "bytes": 19174147,
+      "mtime_ns": 1793410538813367200,
+      "sha256": "ea2ba442074a0b520ebabbd1f4024138065b00a42ff14b991b6252bd82c09088"
+    },
+    "causes": {
+      "name": "Anexo2.CodigosDeMuerte_CE_15-03-23.xlsx",
+      "bytes": 675122,
+      "mtime_ns": 1793410539527892500,
+      "sha256": "7884bd035acff7282c5f3c173d888508c15a5a11bb82f7888b89734f74dc5d7f"
+    },
+    "territories": {
+      "name": "Divipola_CE_.xlsx",
+      "bytes": 159331,
+      "mtime_ns": 1793410542005950300,
+      "sha256": "a67f9233907b2ca257b325c2d2206a1940138b38424f986f8c072224ea60c1bc"
+    }
+  }
+}

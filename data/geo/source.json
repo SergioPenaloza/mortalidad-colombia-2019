@@ -1,0 +1,13 @@
+{
+  "publisher": "Departamento Administrativo Nacional de Estadística (DANE)",
+  "dataset": "Marco Geoestadístico Nacional 2019, departamento",
+  "service": "https://portalgis.dane.gov.co/mparcgis/rest/services/MGN2019/Serv_CapasMGN_2019/FeatureServer/319",
+  "query": "where=1%3D1&outFields=DPTO_CCDGO%2CDPTO_CNMBRE%2CDPTO_NANO&outSR=4326&returnGeometry=true&f=geojson&maxAllowableOffset=0.008&geometryPrecision=4",
+  "features": 33,
+  "simplification_degrees": 0.008,
+  "purpose": "Visualización estadística; no sustituye cartografía legal de límites.",
+  "plotly_topojson": "https://cdn.plot.ly/world_110m.json",
+  "feature_version_years": [
+    2018
+  ]
+}

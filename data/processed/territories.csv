@@ -1,0 +1,1124 @@
+municipality,department,department_name,municipality_name,territory_type
+91001,91,Amazonas,Leticia,Municipio
+91405,91,Amazonas,La Chorrera,Área no municipalizada
+91407,91,Amazonas,La Pedrera,Área no municipalizada
+91540,91,Amazonas,Puerto Nariño,Municipio
+91669,91,Amazonas,Puerto Santander,Área no municipalizada
+91798,91,Amazonas,Tarapacá,Área no municipalizada
+05001,05,Antioquia,Medellín,Municipio
+05002,05,Antioquia,Abejorral,Municipio
+05004,05,Antioquia,Abriaquí,Municipio
+05021,05,Antioquia,Alejandría,Municipio
+05030,05,Antioquia,Amagá,Municipio
+13030,13,Bolívar,Altos Del Rosario,Municipio
+05031,05,Antioquia,Amalfi,Municipio
+05034,05,Antioquia,Andes,Municipio
+05036,05,Antioquia,Angelópolis,Municipio
+05038,05,Antioquia,Angostura,Municipio
+05040,05,Antioquia,Anorí,Municipio
+05044,05,Antioquia,Anzá,Municipio
+05045,05,Antioquia,Apartadó,Municipio
+05051,05,Antioquia,Arboletes,Municipio
+05059,05,Antioquia,Armenia,Municipio
+13074,13,Bolívar,Barranco De Loba,Municipio
+05086,05,Antioquia,Belmira,Municipio
+05091,05,Antioquia,Betania,Municipio
+05093,05,Antioquia,Betulia,Municipio
+05101,05,Antioquia,Ciudad Bolívar,Municipio
+05107,05,Antioquia,Briceño,Municipio
+05113,05,Antioquia,Buriticá,Municipio
+05120,05,Antioquia,Cáceres,Municipio
+05125,05,Antioquia,Caicedo,Municipio
+05129,05,Antioquia,Caldas,Municipio
+05134,05,Antioquia,Campamento,Municipio
+05142,05,Antioquia,Caracolí,Municipio
+05145,05,Antioquia,Caramanta,Municipio
+05147,05,Antioquia,Carepa,Municipio
+05148,05,Antioquia,El Carmen De Viboral,Municipio
+05150,05,Antioquia,Carolina,Municipio
+05154,05,Antioquia,Caucasia,Municipio
+05172,05,Antioquia,Chigorodó,Municipio
+05190,05,Antioquia,Cisneros,Municipio
+05197,05,Antioquia,Cocorná,Municipio
+05209,05,Antioquia,Concordia,Municipio
+05234,05,Antioquia,Dabeiba,Municipio
+05237,05,Antioquia,Donmatías,Municipio
+05240,05,Antioquia,Ebéjico,Municipio
+47245,47,Magdalena,El Banco,Municipio
+05250,05,Antioquia,El Bagre,Municipio
+05264,05,Antioquia,Entrerríos,Municipio
+05266,05,Antioquia,Envigado,Municipio
+13268,13,Bolívar,El Peñón,Municipio
+05282,05,Antioquia,Fredonia,Municipio
+05306,05,Antioquia,Giraldo,Municipio
+05310,05,Antioquia,Gómez Plata,Municipio
+05313,05,Antioquia,Granada,Municipio
+05315,05,Antioquia,Guadalupe,Municipio
+05318,05,Antioquia,Guarne,Municipio
+66318,66,Risaralda,Guática,Municipio
+05321,05,Antioquia,Guatapé,Municipio
+05347,05,Antioquia,Heliconia,Municipio
+05353,05,Antioquia,Hispania,Municipio
+05360,05,Antioquia,Itagüí,Municipio
+05364,05,Antioquia,Jardín,Municipio
+05368,05,Antioquia,Jericó,Municipio
+05376,05,Antioquia,La Ceja,Municipio
+05380,05,Antioquia,La Estrella,Municipio
+17388,17,Caldas,La Merced,Municipio
+05390,05,Antioquia,La Pintada,Municipio
+05400,05,Antioquia,La Unión,Municipio
+05411,05,Antioquia,Liborina,Municipio
+05425,05,Antioquia,Maceo,Municipio
+05440,05,Antioquia,Marinilla,Municipio
+17442,17,Caldas,Marmato,Municipio
+20443,20,Cesar,Manaure Balcón Del Cesar,Municipio
+05467,05,Antioquia,Montebello,Municipio
+05475,05,Antioquia,Murindó,Municipio
+05480,05,Antioquia,Mutatá,Municipio
+05490,05,Antioquia,Necoclí,Municipio
+05495,05,Antioquia,Nechí,Municipio
+05501,05,Antioquia,Olaya,Municipio
+19533,19,Cauca,Piamonte,Municipio
+05541,05,Antioquia,Peñol,Municipio
+15572,15,Boyacá,Puerto Boyacá,Municipio
+05576,05,Antioquia,Pueblorrico,Municipio
+05579,05,Antioquia,Puerto Berrío,Municipio
+05585,05,Antioquia,Puerto Nare,Municipio
+05591,05,Antioquia,Puerto Triunfo,Municipio
+66594,66,Risaralda,Quinchía,Municipio
+05604,05,Antioquia,Remedios,Municipio
+05607,05,Antioquia,Retiro,Municipio
+17614,17,Caldas,Riosucio,Municipio
+05615,05,Antioquia,Rionegro,Municipio
+20621,20,Cesar,La Paz,Municipio
+05628,05,Antioquia,Sabanalarga,Municipio
+05631,05,Antioquia,Sabaneta,Municipio
+05642,05,Antioquia,Salgar,Municipio
+05647,05,Antioquia,San Andrés De Cuerquía,Municipio
+05649,05,Antioquia,San Carlos,Municipio
+05652,05,Antioquia,San Francisco,Municipio
+05656,05,Antioquia,San Jerónimo,Municipio
+05659,05,Antioquia,San Juan De Urabá,Municipio
+05660,05,Antioquia,San Luis,Municipio
+05664,05,Antioquia,San Pedro De Los Milagros,Municipio
+05665,05,Antioquia,San Pedro De Urabá,Municipio
+05667,05,Antioquia,San Rafael,Municipio
+13667,13,Bolívar,San Martín De Loba,Municipio
+05670,05,Antioquia,San Roque,Municipio
+05674,05,Antioquia,San Vicente Ferrer,Municipio
+05679,05,Antioquia,Santa Bárbara,Municipio
+05686,05,Antioquia,Santa Rosa De Osos,Municipio
+05690,05,Antioquia,Santo Domingo,Municipio
+05697,05,Antioquia,El Santuario,Municipio
+19701,19,Cauca,Santa Rosa,Municipio
+05736,05,Antioquia,Segovia,Municipio
+20750,20,Cesar,San Diego,Municipio
+05761,05,Antioquia,Sopetrán,Municipio
+17777,17,Caldas,Supía,Municipio
+05789,05,Antioquia,Támesis,Municipio
+05790,05,Antioquia,Tarazá,Municipio
+05792,05,Antioquia,Tarso,Municipio
+05809,05,Antioquia,Titiribí,Municipio
+05837,05,Antioquia,Turbo,Municipio
+05847,05,Antioquia,Urrao,Municipio
+05854,05,Antioquia,Valdivia,Municipio
+05856,05,Antioquia,Valparaíso,Municipio
+05858,05,Antioquia,Vegachí,Municipio
+05861,05,Antioquia,Venecia,Municipio
+05873,05,Antioquia,Vigía Del Fuerte,Municipio
+05885,05,Antioquia,Yalí,Municipio
+05890,05,Antioquia,Yolombó,Municipio
+05893,05,Antioquia,Yondó,Municipio
+81001,81,Arauca,Arauca,Municipio
+81065,81,Arauca,Arauquita,Municipio
+81300,81,Arauca,Fortul,Municipio
+81736,81,Arauca,Saravena,Municipio
+81794,81,Arauca,Tame,Municipio
+88001,88,San Andrés y Providencia,San Andrés,Isla
+88564,88,San Andrés y Providencia,Providencia,Municipio
+08078,08,Atlántico,Baranoa,Municipio
+08137,08,Atlántico,Campo De La Cruz,Municipio
+08141,08,Atlántico,Candelaria,Municipio
+08296,08,Atlántico,Galapa,Municipio
+08372,08,Atlántico,Juan De Acosta,Municipio
+08421,08,Atlántico,Luruaco,Municipio
+08433,08,Atlántico,Malambo,Municipio
+08436,08,Atlántico,Manatí,Municipio
+08520,08,Atlántico,Palmar De Varela,Municipio
+08549,08,Atlántico,Piojó,Municipio
+08558,08,Atlántico,Polonuevo,Municipio
+08560,08,Atlántico,Ponedera,Municipio
+08573,08,Atlántico,Puerto Colombia,Municipio
+08606,08,Atlántico,Repelón,Municipio
+08634,08,Atlántico,Sabanagrande,Municipio
+08638,08,Atlántico,Sabanalarga,Municipio
+08675,08,Atlántico,Santa Lucía,Municipio
+08685,08,Atlántico,Santo Tomás,Municipio
+08758,08,Atlántico,Soledad,Municipio
+08770,08,Atlántico,Suan,Municipio
+08832,08,Atlántico,Tubará,Municipio
+08849,08,Atlántico,Usiacurí,Municipio
+08001,08,Atlántico,Barranquilla,Municipio
+11001,11,Bogotá D. C.,Bogotá D. C.,Municipio
+05658,05,Antioquia,San José De La Montaña,Municipio
+13006,13,Bolívar,Achí,Municipio
+13042,13,Bolívar,Arenal,Municipio
+13052,13,Bolívar,Arjona,Municipio
+13062,13,Bolívar,Arroyohondo,Municipio
+13140,13,Bolívar,Calamar,Municipio
+13160,13,Bolívar,Cantagallo,Municipio
+13188,13,Bolívar,Cicuco,Municipio
+13212,13,Bolívar,Córdoba,Municipio
+13222,13,Bolívar,Clemencia,Municipio
+13244,13,Bolívar,El Carmen De Bolívar,Municipio
+13248,13,Bolívar,El Guamo,Municipio
+13300,13,Bolívar,Hatillo De Loba,Municipio
+13430,13,Bolívar,Magangué,Municipio
+13433,13,Bolívar,Mahates,Municipio
+13440,13,Bolívar,Margarita,Municipio
+13442,13,Bolívar,María La Baja,Municipio
+13458,13,Bolívar,Montecristo,Municipio
+13468,13,Bolívar,Santa Cruz De Mompox,Municipio
+13473,13,Bolívar,Morales,Municipio
+13490,13,Bolívar,Norosí,Municipio
+13549,13,Bolívar,Pinillos,Municipio
+13580,13,Bolívar,Regidor,Municipio
+13600,13,Bolívar,Río Viejo,Municipio
+13620,13,Bolívar,San Cristóbal,Municipio
+13647,13,Bolívar,San Estanislao,Municipio
+13650,13,Bolívar,San Fernando,Municipio
+13654,13,Bolívar,San Jacinto,Municipio
+13655,13,Bolívar,San Jacinto Del Cauca,Municipio
+13657,13,Bolívar,San Juan Nepomuceno,Municipio
+13670,13,Bolívar,San Pablo,Municipio
+13673,13,Bolívar,Santa Catalina,Municipio
+13683,13,Bolívar,Santa Rosa,Municipio
+13688,13,Bolívar,Santa Rosa Del Sur,Municipio
+13744,13,Bolívar,Simití,Municipio
+13760,13,Bolívar,Soplaviento,Municipio
+13780,13,Bolívar,Talaigua Nuevo,Municipio
+13810,13,Bolívar,Tiquisio,Municipio
+13836,13,Bolívar,Turbaco,Municipio
+13838,13,Bolívar,Turbaná,Municipio
+13873,13,Bolívar,Villanueva,Municipio
+13894,13,Bolívar,Zambrano,Municipio
+13001,13,Bolívar,Cartagena De Indias,Municipio
+73024,73,Tolima,Alpujarra,Municipio
+73236,73,Tolima,Dolores,Municipio
+73483,73,Tolima,Natagaima,Municipio
+05138,05,Antioquia,Cañasgordas,Municipio
+15001,15,Boyacá,Tunja,Municipio
+15047,15,Boyacá,Aquitania,Municipio
+15051,15,Boyacá,Arcabuco,Municipio
+15087,15,Boyacá,Belén,Municipio
+15097,15,Boyacá,Boavita,Municipio
+15104,15,Boyacá,Boyacá,Municipio
+15106,15,Boyacá,Briceño,Municipio
+15109,15,Boyacá,Buenavista,Municipio
+15131,15,Boyacá,Caldas,Municipio
+15162,15,Boyacá,Cerinza,Municipio
+15176,15,Boyacá,Chiquinquirá,Municipio
+15180,15,Boyacá,Chiscas,Municipio
+15183,15,Boyacá,Chita,Municipio
+15185,15,Boyacá,Chitaraque,Municipio
+15187,15,Boyacá,Chivatá,Municipio
+15189,15,Boyacá,Ciénega,Municipio
+15204,15,Boyacá,Cómbita,Municipio
+15212,15,Boyacá,Coper,Municipio
+15215,15,Boyacá,Corrales,Municipio
+15218,15,Boyacá,Covarachía,Municipio
+15223,15,Boyacá,Cubará,Municipio
+15224,15,Boyacá,Cucaita,Municipio
+15226,15,Boyacá,Cuítiva,Municipio
+15232,15,Boyacá,Chíquiza,Municipio
+15238,15,Boyacá,Duitama,Municipio
+15244,15,Boyacá,El Cocuy,Municipio
+15248,15,Boyacá,El Espino,Municipio
+15272,15,Boyacá,Firavitoba,Municipio
+15293,15,Boyacá,Gachantivá,Municipio
+15296,15,Boyacá,Gámeza,Municipio
+15299,15,Boyacá,Garagoa,Municipio
+15317,15,Boyacá,Guacamayas,Municipio
+15322,15,Boyacá,Guateque,Municipio
+15325,15,Boyacá,Guayatá,Municipio
+15362,15,Boyacá,Iza,Municipio
+15367,15,Boyacá,Jenesano,Municipio
+15368,15,Boyacá,Jericó,Municipio
+15380,15,Boyacá,La Capilla,Municipio
+15403,15,Boyacá,La Uvita,Municipio
+15407,15,Boyacá,Villa De Leyva,Municipio
+15425,15,Boyacá,Macanal,Municipio
+15442,15,Boyacá,Maripí,Municipio
+15455,15,Boyacá,Miraflores,Municipio
+15464,15,Boyacá,Mongua,Municipio
+15466,15,Boyacá,Monguí,Municipio
+15469,15,Boyacá,Moniquirá,Municipio
+15476,15,Boyacá,Motavita,Municipio
+15480,15,Boyacá,Muzo,Municipio
+15491,15,Boyacá,Nobsa,Municipio
+15494,15,Boyacá,Nuevo Colón,Municipio
+15500,15,Boyacá,Oicatá,Municipio
+15507,15,Boyacá,Otanche,Municipio
+15511,15,Boyacá,Pachavita,Municipio
+15516,15,Boyacá,Paipa,Municipio
+15518,15,Boyacá,Pajarito,Municipio
+15522,15,Boyacá,Panqueba,Municipio
+15531,15,Boyacá,Pauna,Municipio
+15533,15,Boyacá,Paya,Municipio
+15537,15,Boyacá,Paz De Río,Municipio
+15542,15,Boyacá,Pesca,Municipio
+15580,15,Boyacá,Quípama,Municipio
+15599,15,Boyacá,Ramiriquí,Municipio
+15600,15,Boyacá,Ráquira,Municipio
+15632,15,Boyacá,Saboyá,Municipio
+15638,15,Boyacá,Sáchica,Municipio
+15646,15,Boyacá,Samacá,Municipio
+15664,15,Boyacá,San José De Pare,Municipio
+15667,15,Boyacá,San Luis De Gaceno,Municipio
+15676,15,Boyacá,San Miguel De Sema,Municipio
+15681,15,Boyacá,San Pablo De Borbur,Municipio
+15686,15,Boyacá,Santana,Municipio
+15690,15,Boyacá,Santa María,Municipio
+15693,15,Boyacá,Santa Rosa De Viterbo,Municipio
+15696,15,Boyacá,Santa Sofía,Municipio
+15720,15,Boyacá,Sativanorte,Municipio
+15723,15,Boyacá,Sativasur,Municipio
+15740,15,Boyacá,Siachoque,Municipio
+15753,15,Boyacá,Soatá,Municipio
+15757,15,Boyacá,Socha,Municipio
+15759,15,Boyacá,Sogamoso,Municipio
+15763,15,Boyacá,Sotaquirá,Municipio
+15764,15,Boyacá,Soracá,Municipio
+15774,15,Boyacá,Susacón,Municipio
+15776,15,Boyacá,Sutamarchán,Municipio
+15790,15,Boyacá,Tasco,Municipio
+15798,15,Boyacá,Tenza,Municipio
+15804,15,Boyacá,Tibaná,Municipio
+15806,15,Boyacá,Tibasosa,Municipio
+15808,15,Boyacá,Tinjacá,Municipio
+15810,15,Boyacá,Tipacoque,Municipio
+15814,15,Boyacá,Toca,Municipio
+15816,15,Boyacá,Togüí,Municipio
+15820,15,Boyacá,Tópaga,Municipio
+15822,15,Boyacá,Tota,Municipio
+15832,15,Boyacá,Tununguá,Municipio
+15835,15,Boyacá,Turmequé,Municipio
+15837,15,Boyacá,Tuta,Municipio
+15842,15,Boyacá,Úmbita,Municipio
+15861,15,Boyacá,Ventaquemada,Municipio
+15879,15,Boyacá,Viracachá,Municipio
+15897,15,Boyacá,Zetaquira,Municipio
+05042,05,Antioquia,Santa Fé De Antioquia,Municipio
+05055,05,Antioquia,Argelia,Municipio
+05756,05,Antioquia,Sonsón,Municipio
+17001,17,Caldas,Manizales,Municipio
+17013,17,Caldas,Aguadas,Municipio
+17042,17,Caldas,Anserma,Municipio
+17050,17,Caldas,Aranzazu,Municipio
+17088,17,Caldas,Belalcázar,Municipio
+17174,17,Caldas,Chinchiná,Municipio
+17272,17,Caldas,Filadelfia,Municipio
+17380,17,Caldas,La Dorada,Municipio
+17433,17,Caldas,Manzanares,Municipio
+17444,17,Caldas,Marquetalia,Municipio
+17446,17,Caldas,Marulanda,Municipio
+17486,17,Caldas,Neira,Municipio
+17495,17,Caldas,Norcasia,Municipio
+17513,17,Caldas,Pácora,Municipio
+17524,17,Caldas,Palestina,Municipio
+17541,17,Caldas,Pensilvania,Municipio
+17616,17,Caldas,Risaralda,Municipio
+17653,17,Caldas,Salamina,Municipio
+17662,17,Caldas,Samaná,Municipio
+17665,17,Caldas,San José,Municipio
+17867,17,Caldas,Victoria,Municipio
+17873,17,Caldas,Villamaría,Municipio
+17877,17,Caldas,Viterbo,Municipio
+18001,18,Caquetá,Florencia,Municipio
+18029,18,Caquetá,Albania,Municipio
+18094,18,Caquetá,Belén De Los Andaquíes,Municipio
+18150,18,Caquetá,Cartagena Del Chairá,Municipio
+18205,18,Caquetá,Curillo,Municipio
+18247,18,Caquetá,El Doncello,Municipio
+18256,18,Caquetá,El Paujíl,Municipio
+18410,18,Caquetá,La Montañita,Municipio
+18460,18,Caquetá,Milán,Municipio
+18479,18,Caquetá,Morelia,Municipio
+18592,18,Caquetá,Puerto Rico,Municipio
+18610,18,Caquetá,San José Del Fragua,Municipio
+18753,18,Caquetá,San Vicente Del Caguán,Municipio
+18756,18,Caquetá,Solano,Municipio
+18785,18,Caquetá,Solita,Municipio
+41206,41,Huila,Colombia,Municipio
+85001,85,Casanare,Yopal,Municipio
+85010,85,Casanare,Aguazul,Municipio
+85125,85,Casanare,Hato Corozal,Municipio
+85139,85,Casanare,Maní,Municipio
+85162,85,Casanare,Monterrey,Municipio
+85230,85,Casanare,Orocué,Municipio
+85250,85,Casanare,Paz De Ariporo,Municipio
+85263,85,Casanare,Pore,Municipio
+85279,85,Casanare,Recetor,Municipio
+85315,85,Casanare,Sácama,Municipio
+85325,85,Casanare,San Luis De Palenque,Municipio
+85410,85,Casanare,Tauramena,Municipio
+85430,85,Casanare,Trinidad,Municipio
+85440,85,Casanare,Villanueva,Municipio
+19001,19,Cauca,Popayán,Municipio
+19050,19,Cauca,Argelia,Municipio
+19075,19,Cauca,Balboa,Municipio
+19100,19,Cauca,Bolívar,Municipio
+19110,19,Cauca,Buenos Aires,Municipio
+19130,19,Cauca,Cajibío,Municipio
+19137,19,Cauca,Caldono,Municipio
+19142,19,Cauca,Caloto,Municipio
+19212,19,Cauca,Corinto,Municipio
+19256,19,Cauca,El Tambo,Municipio
+19290,19,Cauca,Florencia,Municipio
+19300,19,Cauca,Guachené,Municipio
+19318,19,Cauca,Guapi,Municipio
+19355,19,Cauca,Inzá,Municipio
+19364,19,Cauca,Jambaló,Municipio
+19392,19,Cauca,La Sierra,Municipio
+19397,19,Cauca,La Vega,Municipio
+19418,19,Cauca,López De Micay,Municipio
+19450,19,Cauca,Mercaderes,Municipio
+19455,19,Cauca,Miranda,Municipio
+19473,19,Cauca,Morales,Municipio
+19513,19,Cauca,Padilla,Municipio
+19517,19,Cauca,Páez,Municipio
+19532,19,Cauca,Patía,Municipio
+19548,19,Cauca,Piendamó - Tunía,Municipio
+19573,19,Cauca,Puerto Tejada,Municipio
+19585,19,Cauca,Puracé,Municipio
+19622,19,Cauca,Rosas,Municipio
+19698,19,Cauca,Santander De Quilichao,Municipio
+19743,19,Cauca,Silvia,Municipio
+19760,19,Cauca,Sotará - Paispamba,Municipio
+19780,19,Cauca,Suárez,Municipio
+19785,19,Cauca,Sucre,Municipio
+19807,19,Cauca,Timbío,Municipio
+19809,19,Cauca,Timbiquí,Municipio
+19821,19,Cauca,Toribío,Municipio
+19824,19,Cauca,Totoró,Municipio
+19845,19,Cauca,Villa Rica,Municipio
+41799,41,Huila,Tello,Municipio
+41872,41,Huila,Villavieja,Municipio
+05284,05,Antioquia,Frontino,Municipio
+05842,05,Antioquia,Uramita,Municipio
+18860,18,Caquetá,Valparaíso,Municipio
+20001,20,Cesar,Valledupar,Municipio
+20011,20,Cesar,Aguachica,Municipio
+20013,20,Cesar,Agustín Codazzi,Municipio
+20032,20,Cesar,Astrea,Municipio
+20045,20,Cesar,Becerril,Municipio
+20060,20,Cesar,Bosconia,Municipio
+20175,20,Cesar,Chimichagua,Municipio
+20178,20,Cesar,Chiriguaná,Municipio
+20228,20,Cesar,Curumaní,Municipio
+20238,20,Cesar,El Copey,Municipio
+20250,20,Cesar,El Paso,Municipio
+20295,20,Cesar,Gamarra,Municipio
+20310,20,Cesar,González,Municipio
+20383,20,Cesar,La Gloria,Municipio
+20400,20,Cesar,La Jagua De Ibirico,Municipio
+20517,20,Cesar,Pailitas,Municipio
+20550,20,Cesar,Pelaya,Municipio
+20570,20,Cesar,Pueblo Bello,Municipio
+20614,20,Cesar,Río De Oro,Municipio
+20710,20,Cesar,San Alberto,Municipio
+20770,20,Cesar,San Martín,Municipio
+20787,20,Cesar,Tamalameque,Municipio
+27001,27,Chocó,Quibdó,Municipio
+27006,27,Chocó,Acandí,Municipio
+27025,27,Chocó,Alto Baudó,Municipio
+27050,27,Chocó,Atrato,Municipio
+27073,27,Chocó,Bagadó,Municipio
+27075,27,Chocó,Bahía Solano,Municipio
+27077,27,Chocó,Bajo Baudó,Municipio
+27099,27,Chocó,Bojayá,Municipio
+27135,27,Chocó,El Cantón Del San Pablo,Municipio
+27150,27,Chocó,Carmen Del Darién,Municipio
+27160,27,Chocó,Cértegui,Municipio
+27205,27,Chocó,Condoto,Municipio
+27245,27,Chocó,El Carmen De Atrato,Municipio
+27250,27,Chocó,El Litoral Del San Juan,Municipio
+27361,27,Chocó,Istmina,Municipio
+27413,27,Chocó,Lloró,Municipio
+27430,27,Chocó,Medio Baudó,Municipio
+27450,27,Chocó,Medio San Juan,Municipio
+27491,27,Chocó,Nóvita,Municipio
+27495,27,Chocó,Nuquí,Municipio
+27580,27,Chocó,Río Iró,Municipio
+27600,27,Chocó,Río Quito,Municipio
+27615,27,Chocó,Riosucio,Municipio
+27787,27,Chocó,Tadó,Municipio
+27800,27,Chocó,Unguía,Municipio
+27810,27,Chocó,Unión Panamericana,Municipio
+23001,23,Córdoba,Montería,Municipio
+23068,23,Córdoba,Ayapel,Municipio
+23079,23,Córdoba,Buenavista,Municipio
+23090,23,Córdoba,Canalete,Municipio
+23162,23,Córdoba,Cereté,Municipio
+23168,23,Córdoba,Chimá,Municipio
+23182,23,Córdoba,Chinú,Municipio
+23189,23,Córdoba,Ciénaga De Oro,Municipio
+23300,23,Córdoba,Cotorra,Municipio
+23350,23,Córdoba,La Apartada,Municipio
+23417,23,Córdoba,Lorica,Municipio
+23419,23,Córdoba,Los Córdobas,Municipio
+23464,23,Córdoba,Momil,Municipio
+23466,23,Córdoba,Montelíbano,Municipio
+23500,23,Córdoba,Moñitos,Municipio
+23555,23,Córdoba,Planeta Rica,Municipio
+23570,23,Córdoba,Pueblo Nuevo,Municipio
+23574,23,Córdoba,Puerto Escondido,Municipio
+23580,23,Córdoba,Puerto Libertador,Municipio
+23586,23,Córdoba,Purísima De La Concepción,Municipio
+23660,23,Córdoba,Sahagún,Municipio
+23670,23,Córdoba,San Andrés De Sotavento,Municipio
+23672,23,Córdoba,San Antero,Municipio
+23675,23,Córdoba,San Bernardo Del Viento,Municipio
+23678,23,Córdoba,San Carlos,Municipio
+23682,23,Córdoba,San José De Uré,Municipio
+23686,23,Córdoba,San Pelayo,Municipio
+23807,23,Córdoba,Tierralta,Municipio
+23815,23,Córdoba,Tuchín,Municipio
+23855,23,Córdoba,Valencia,Municipio
+25001,25,Cundinamarca,Agua De Dios,Municipio
+25019,25,Cundinamarca,Albán,Municipio
+25035,25,Cundinamarca,Anapoima,Municipio
+25040,25,Cundinamarca,Anolaima,Municipio
+25053,25,Cundinamarca,Arbeláez,Municipio
+25086,25,Cundinamarca,Beltrán,Municipio
+25095,25,Cundinamarca,Bituima,Municipio
+25099,25,Cundinamarca,Bojacá,Municipio
+25120,25,Cundinamarca,Cabrera,Municipio
+25123,25,Cundinamarca,Cachipay,Municipio
+25126,25,Cundinamarca,Cajicá,Municipio
+25148,25,Cundinamarca,Caparrapí,Municipio
+25151,25,Cundinamarca,Cáqueza,Municipio
+25154,25,Cundinamarca,Carmen De Carupa,Municipio
+25175,25,Cundinamarca,Chía,Municipio
+25178,25,Cundinamarca,Chipaque,Municipio
+25181,25,Cundinamarca,Choachí,Municipio
+25183,25,Cundinamarca,Chocontá,Municipio
+25200,25,Cundinamarca,Cogua,Municipio
+25214,25,Cundinamarca,Cota,Municipio
+25224,25,Cundinamarca,Cucunubá,Municipio
+25245,25,Cundinamarca,El Colegio,Municipio
+25258,25,Cundinamarca,El Peñón,Municipio
+25260,25,Cundinamarca,El Rosal,Municipio
+25269,25,Cundinamarca,Facatativá,Municipio
+25279,25,Cundinamarca,Fómeque,Municipio
+25281,25,Cundinamarca,Fosca,Municipio
+25286,25,Cundinamarca,Funza,Municipio
+25288,25,Cundinamarca,Fúquene,Municipio
+25290,25,Cundinamarca,Fusagasugá,Municipio
+25293,25,Cundinamarca,Gachalá,Municipio
+25295,25,Cundinamarca,Gachancipá,Municipio
+25297,25,Cundinamarca,Gachetá,Municipio
+25299,25,Cundinamarca,Gama,Municipio
+25307,25,Cundinamarca,Girardot,Municipio
+25312,25,Cundinamarca,Granada,Municipio
+25317,25,Cundinamarca,Guachetá,Municipio
+25320,25,Cundinamarca,Guaduas,Municipio
+25322,25,Cundinamarca,Guasca,Municipio
+25324,25,Cundinamarca,Guataquí,Municipio
+25326,25,Cundinamarca,Guatavita,Municipio
+25335,25,Cundinamarca,Guayabetal,Municipio
+25372,25,Cundinamarca,Junín,Municipio
+25377,25,Cundinamarca,La Calera,Municipio
+25386,25,Cundinamarca,La Mesa,Municipio
+25394,25,Cundinamarca,La Palma,Municipio
+25402,25,Cundinamarca,La Vega,Municipio
+25407,25,Cundinamarca,Lenguazaque,Municipio
+25426,25,Cundinamarca,Machetá,Municipio
+25430,25,Cundinamarca,Madrid,Municipio
+25436,25,Cundinamarca,Manta,Municipio
+25473,25,Cundinamarca,Mosquera,Municipio
+25483,25,Cundinamarca,Nariño,Municipio
+25486,25,Cundinamarca,Nemocón,Municipio
+25488,25,Cundinamarca,Nilo,Municipio
+25489,25,Cundinamarca,Nimaima,Municipio
+25491,25,Cundinamarca,Nocaima,Municipio
+25506,25,Cundinamarca,Venecia,Municipio
+25513,25,Cundinamarca,Pacho,Municipio
+25524,25,Cundinamarca,Pandi,Municipio
+25530,25,Cundinamarca,Paratebueno,Municipio
+25535,25,Cundinamarca,Pasca,Municipio
+25572,25,Cundinamarca,Puerto Salgar,Municipio
+25580,25,Cundinamarca,Pulí,Municipio
+25592,25,Cundinamarca,Quebradanegra,Municipio
+25594,25,Cundinamarca,Quetame,Municipio
+25596,25,Cundinamarca,Quipile,Municipio
+25599,25,Cundinamarca,Apulo,Municipio
+25612,25,Cundinamarca,Ricaurte,Municipio
+25645,25,Cundinamarca,San Antonio Del Tequendama,Municipio
+25649,25,Cundinamarca,San Bernardo,Municipio
+25653,25,Cundinamarca,San Cayetano,Municipio
+25658,25,Cundinamarca,San Francisco,Municipio
+25662,25,Cundinamarca,San Juan De Rioseco,Municipio
+25718,25,Cundinamarca,Sasaima,Municipio
+25736,25,Cundinamarca,Sesquilé,Municipio
+25740,25,Cundinamarca,Sibaté,Municipio
+25743,25,Cundinamarca,Silvania,Municipio
+25745,25,Cundinamarca,Simijaca,Municipio
+25754,25,Cundinamarca,Soacha,Municipio
+25758,25,Cundinamarca,Sopó,Municipio
+25769,25,Cundinamarca,Subachoque,Municipio
+25772,25,Cundinamarca,Suesca,Municipio
+25777,25,Cundinamarca,Supatá,Municipio
+25779,25,Cundinamarca,Susa,Municipio
+25781,25,Cundinamarca,Sutatausa,Municipio
+25785,25,Cundinamarca,Tabio,Municipio
+25793,25,Cundinamarca,Tausa,Municipio
+25797,25,Cundinamarca,Tena,Municipio
+25799,25,Cundinamarca,Tenjo,Municipio
+25805,25,Cundinamarca,Tibacuy,Municipio
+25815,25,Cundinamarca,Tocaima,Municipio
+25817,25,Cundinamarca,Tocancipá,Municipio
+25839,25,Cundinamarca,Ubalá,Municipio
+25841,25,Cundinamarca,Ubaque,Municipio
+25843,25,Cundinamarca,Villa De San Diego De Ubaté,Municipio
+25845,25,Cundinamarca,Une,Municipio
+25851,25,Cundinamarca,Útica,Municipio
+25862,25,Cundinamarca,Vergara,Municipio
+25867,25,Cundinamarca,Vianí,Municipio
+25873,25,Cundinamarca,Villapinzón,Municipio
+25875,25,Cundinamarca,Villeta,Municipio
+25878,25,Cundinamarca,Viotá,Municipio
+25885,25,Cundinamarca,Yacopí,Municipio
+25898,25,Cundinamarca,Zipacón,Municipio
+25899,25,Cundinamarca,Zipaquirá,Municipio
+94001,94,Guainía,Inírida,Municipio
+94663,94,Guainía,Mapiripana,
+94883,94,Guainía,San Felipe,Área no municipalizada
+94884,94,Guainía,Puerto Colombia,Área no municipalizada
+95001,95,Guaviare,San José Del Guaviare,Municipio
+95015,95,Guaviare,Calamar,Municipio
+95025,95,Guaviare,El Retorno,Municipio
+95200,95,Guaviare,Miraflores,Municipio
+05079,05,Antioquia,Barbosa,Municipio
+05088,05,Antioquia,Bello,Municipio
+05819,05,Antioquia,Toledo,Municipio
+05887,05,Antioquia,Yarumal,Municipio
+41001,41,Huila,Neiva,Municipio
+41006,41,Huila,Acevedo,Municipio
+41013,41,Huila,Agrado,Municipio
+41016,41,Huila,Aipe,Municipio
+41020,41,Huila,Algeciras,Municipio
+41026,41,Huila,Altamira,Municipio
+41132,41,Huila,Campoalegre,Municipio
+41244,41,Huila,Elías,Municipio
+41298,41,Huila,Garzón,Municipio
+41306,41,Huila,Gigante,Municipio
+41319,41,Huila,Guadalupe,Municipio
+41349,41,Huila,Hobo,Municipio
+41357,41,Huila,Íquira,Municipio
+41359,41,Huila,Isnos,Municipio
+41378,41,Huila,La Argentina,Municipio
+41396,41,Huila,La Plata,Municipio
+41483,41,Huila,Nátaga,Municipio
+41503,41,Huila,Oporapa,Municipio
+41518,41,Huila,Paicol,Municipio
+41524,41,Huila,Palermo,Municipio
+41530,41,Huila,Palestina,Municipio
+41548,41,Huila,Pital,Municipio
+41551,41,Huila,Pitalito,Municipio
+41615,41,Huila,Rivera,Municipio
+41660,41,Huila,Saladoblanco,Municipio
+41668,41,Huila,San Agustín,Municipio
+41676,41,Huila,Santa María,Municipio
+41770,41,Huila,Suaza,Municipio
+41791,41,Huila,Tarqui,Municipio
+41797,41,Huila,Tesalia,Municipio
+41801,41,Huila,Teruel,Municipio
+41807,41,Huila,Timaná,Municipio
+41885,41,Huila,Yaguará,Municipio
+44001,44,La Guajira,Riohacha,Municipio
+44035,44,La Guajira,Albania,Municipio
+44078,44,La Guajira,Barrancas,Municipio
+44090,44,La Guajira,Dibulla,Municipio
+44098,44,La Guajira,Distracción,Municipio
+44110,44,La Guajira,El Molino,Municipio
+44279,44,La Guajira,Fonseca,Municipio
+44378,44,La Guajira,Hatonuevo,Municipio
+44420,44,La Guajira,La Jagua Del Pilar,Municipio
+44430,44,La Guajira,Maicao,Municipio
+44560,44,La Guajira,Manaure,Municipio
+44650,44,La Guajira,San Juan Del Cesar,Municipio
+44847,44,La Guajira,Uribia,Municipio
+44855,44,La Guajira,Urumita,Municipio
+44874,44,La Guajira,Villanueva,Municipio
+41078,41,Huila,Baraya,Municipio
+47030,47,Magdalena,Algarrobo,Municipio
+47053,47,Magdalena,Aracataca,Municipio
+47058,47,Magdalena,Ariguaní,Municipio
+47161,47,Magdalena,Cerro De San Antonio,Municipio
+47170,47,Magdalena,Chivolo,Municipio
+47189,47,Magdalena,Ciénaga,Municipio
+47205,47,Magdalena,Concordia,Municipio
+47258,47,Magdalena,El Piñón,Municipio
+47268,47,Magdalena,El Retén,Municipio
+47288,47,Magdalena,Fundación,Municipio
+47318,47,Magdalena,Guamal,Municipio
+47460,47,Magdalena,Nueva Granada,Municipio
+47541,47,Magdalena,Pedraza,Municipio
+47545,47,Magdalena,Pijiño Del Carmen,Municipio
+47551,47,Magdalena,Pivijay,Municipio
+47555,47,Magdalena,Plato,Municipio
+47570,47,Magdalena,Puebloviejo,Municipio
+47605,47,Magdalena,Remolino,Municipio
+47660,47,Magdalena,Sabanas De San Ángel,Municipio
+47675,47,Magdalena,Salamina,Municipio
+47692,47,Magdalena,San Sebastián De Buenavista,Municipio
+47703,47,Magdalena,San Zenón,Municipio
+47707,47,Magdalena,Santa Ana,Municipio
+47720,47,Magdalena,Santa Bárbara De Pinto,Municipio
+47745,47,Magdalena,Sitionuevo,Municipio
+47798,47,Magdalena,Tenerife,Municipio
+47960,47,Magdalena,Zapayán,Municipio
+47980,47,Magdalena,Zona Bananera,Municipio
+47001,47,Magdalena,Santa Marta,Municipio
+50001,50,Meta,Villavicencio,Municipio
+50006,50,Meta,Acacías,Municipio
+50110,50,Meta,Barranca De Upía,Municipio
+50124,50,Meta,Cabuyaro,Municipio
+50150,50,Meta,Castilla La Nueva,Municipio
+50223,50,Meta,Cubarral,Municipio
+50226,50,Meta,Cumaral,Municipio
+50251,50,Meta,El Castillo,Municipio
+50270,50,Meta,El Dorado,Municipio
+50287,50,Meta,Fuente De Oro,Municipio
+50313,50,Meta,Granada,Municipio
+50318,50,Meta,Guamal,Municipio
+50325,50,Meta,Mapiripán,Municipio
+50330,50,Meta,Mesetas,Municipio
+50350,50,Meta,La Macarena,Municipio
+50370,50,Meta,Uribe,Municipio
+50400,50,Meta,Lejanías,Municipio
+50450,50,Meta,Puerto Concordia,Municipio
+50568,50,Meta,Puerto Gaitán,Municipio
+50573,50,Meta,Puerto López,Municipio
+50577,50,Meta,Puerto Lleras,Municipio
+50590,50,Meta,Puerto Rico,Municipio
+50606,50,Meta,Restrepo,Municipio
+50680,50,Meta,San Carlos De Guaroa,Municipio
+50683,50,Meta,San Juan De Arama,Municipio
+50689,50,Meta,San Martín,Municipio
+50711,50,Meta,Vistahermosa,Municipio
+52001,52,Nariño,Pasto,Municipio
+52019,52,Nariño,Albán,Municipio
+52022,52,Nariño,Aldana,Municipio
+52036,52,Nariño,Ancuya,Municipio
+52051,52,Nariño,Arboleda,Municipio
+52079,52,Nariño,Barbacoas,Municipio
+52083,52,Nariño,Belén,Municipio
+52110,52,Nariño,Buesaco,Municipio
+52203,52,Nariño,Colón,Municipio
+52207,52,Nariño,Consacá,Municipio
+52210,52,Nariño,Contadero,Municipio
+52215,52,Nariño,Córdoba,Municipio
+52224,52,Nariño,Cuaspud Carlosama,Municipio
+52227,52,Nariño,Cumbal,Municipio
+52233,52,Nariño,Cumbitara,Municipio
+52240,52,Nariño,Chachagüí,Municipio
+52250,52,Nariño,El Charco,Municipio
+52254,52,Nariño,El Peñol,Municipio
+52256,52,Nariño,El Rosario,Municipio
+52260,52,Nariño,El Tambo,Municipio
+52287,52,Nariño,Funes,Municipio
+52317,52,Nariño,Guachucal,Municipio
+52320,52,Nariño,Guaitarilla,Municipio
+52323,52,Nariño,Gualmatán,Municipio
+52352,52,Nariño,Iles,Municipio
+52354,52,Nariño,Imués,Municipio
+52356,52,Nariño,Ipiales,Municipio
+52378,52,Nariño,La Cruz,Municipio
+52381,52,Nariño,La Florida,Municipio
+52385,52,Nariño,La Llanada,Municipio
+52390,52,Nariño,La Tola,Municipio
+52399,52,Nariño,La Unión,Municipio
+52405,52,Nariño,Leiva,Municipio
+52411,52,Nariño,Linares,Municipio
+52418,52,Nariño,Los Andes,Municipio
+52427,52,Nariño,Magüí,Municipio
+52435,52,Nariño,Mallama,Municipio
+52473,52,Nariño,Mosquera,Municipio
+52480,52,Nariño,Nariño,Municipio
+52490,52,Nariño,Olaya Herrera,Municipio
+52506,52,Nariño,Ospina,Municipio
+52520,52,Nariño,Francisco Pizarro,Municipio
+52540,52,Nariño,Policarpa,Municipio
+52560,52,Nariño,Potosí,Municipio
+52565,52,Nariño,Providencia,Municipio
+52573,52,Nariño,Puerres,Municipio
+52585,52,Nariño,Pupiales,Municipio
+52612,52,Nariño,Ricaurte,Municipio
+52621,52,Nariño,Roberto Payán,Municipio
+52678,52,Nariño,Samaniego,Municipio
+52683,52,Nariño,Sandoná,Municipio
+52685,52,Nariño,San Bernardo,Municipio
+52687,52,Nariño,San Lorenzo,Municipio
+52693,52,Nariño,San Pablo,Municipio
+52694,52,Nariño,San Pedro De Cartago,Municipio
+52696,52,Nariño,Santa Bárbara,Municipio
+52699,52,Nariño,Santacruz,Municipio
+52720,52,Nariño,Sapuyes,Municipio
+52786,52,Nariño,Taminango,Municipio
+52788,52,Nariño,Tangua,Municipio
+52835,52,Nariño,San Andrés De Tumaco,Municipio
+52838,52,Nariño,Túquerres,Municipio
+52885,52,Nariño,Yacuanquer,Municipio
+54001,54,Norte De Santander,San José De Cúcuta,Municipio
+54003,54,Norte De Santander,Ábrego,Municipio
+54051,54,Norte De Santander,Arboledas,Municipio
+54099,54,Norte De Santander,Bochalema,Municipio
+54109,54,Norte De Santander,Bucarasica,Municipio
+54125,54,Norte De Santander,Cácota,Municipio
+54128,54,Norte De Santander,Cáchira,Municipio
+54172,54,Norte De Santander,Chinácota,Municipio
+54174,54,Norte De Santander,Chitagá,Municipio
+54206,54,Norte De Santander,Convención,Municipio
+54223,54,Norte De Santander,Cucutilla,Municipio
+54239,54,Norte De Santander,Durania,Municipio
+54245,54,Norte De Santander,El Carmen,Municipio
+54250,54,Norte De Santander,El Tarra,Municipio
+54261,54,Norte De Santander,El Zulia,Municipio
+54313,54,Norte De Santander,Gramalote,Municipio
+54344,54,Norte De Santander,Hacarí,Municipio
+54347,54,Norte De Santander,Herrán,Municipio
+54377,54,Norte De Santander,Labateca,Municipio
+54385,54,Norte De Santander,La Esperanza,Municipio
+54398,54,Norte De Santander,La Playa,Municipio
+54405,54,Norte De Santander,Los Patios,Municipio
+54418,54,Norte De Santander,Lourdes,Municipio
+54480,54,Norte De Santander,Mutiscua,Municipio
+54498,54,Norte De Santander,Ocaña,Municipio
+54518,54,Norte De Santander,Pamplona,Municipio
+54520,54,Norte De Santander,Pamplonita,Municipio
+54553,54,Norte De Santander,Puerto Santander,Municipio
+54599,54,Norte De Santander,Ragonvalia,Municipio
+54660,54,Norte De Santander,Salazar,Municipio
+54670,54,Norte De Santander,San Calixto,Municipio
+54673,54,Norte De Santander,San Cayetano,Municipio
+54680,54,Norte De Santander,Santiago,Municipio
+54720,54,Norte De Santander,Sardinata,Municipio
+54743,54,Norte De Santander,Silos,Municipio
+54800,54,Norte De Santander,Teorama,Municipio
+54810,54,Norte De Santander,Tibú,Municipio
+54820,54,Norte De Santander,Toledo,Municipio
+54871,54,Norte De Santander,Villa Caro,Municipio
+54874,54,Norte De Santander,Villa Del Rosario,Municipio
+86001,86,Putumayo,Mocoa,Municipio
+86219,86,Putumayo,Colón,Municipio
+86320,86,Putumayo,Orito,Municipio
+86568,86,Putumayo,Puerto Asís,Municipio
+86569,86,Putumayo,Puerto Caicedo,Municipio
+86571,86,Putumayo,Puerto Guzmán,Municipio
+86573,86,Putumayo,Puerto Leguízamo,Municipio
+86749,86,Putumayo,Sibundoy,Municipio
+86757,86,Putumayo,San Miguel,Municipio
+86760,86,Putumayo,Santiago,Municipio
+86865,86,Putumayo,Valle Del Guamuez,Municipio
+86885,86,Putumayo,Villagarzón,Municipio
+63001,63,Quindío,Armenia,Municipio
+63111,63,Quindío,Buenavista,Municipio
+63130,63,Quindío,Calarcá,Municipio
+63190,63,Quindío,Circasia,Municipio
+63212,63,Quindío,Córdoba,Municipio
+63272,63,Quindío,Filandia,Municipio
+63302,63,Quindío,Génova,Municipio
+63401,63,Quindío,La Tebaida,Municipio
+63470,63,Quindío,Montenegro,Municipio
+63548,63,Quindío,Pijao,Municipio
+63594,63,Quindío,Quimbaya,Municipio
+63690,63,Quindío,Salento,Municipio
+05361,05,Antioquia,Ituango,Municipio
+05543,05,Antioquia,Peque,Municipio
+66001,66,Risaralda,Pereira,Municipio
+66045,66,Risaralda,Apía,Municipio
+66075,66,Risaralda,Balboa,Municipio
+66088,66,Risaralda,Belén De Umbría,Municipio
+66170,66,Risaralda,Dosquebradas,Municipio
+66383,66,Risaralda,La Celia,Municipio
+66400,66,Risaralda,La Virginia,Municipio
+66440,66,Risaralda,Marsella,Municipio
+66456,66,Risaralda,Mistrató,Municipio
+66572,66,Risaralda,Pueblo Rico,Municipio
+66682,66,Risaralda,Santa Rosa De Cabal,Municipio
+66687,66,Risaralda,Santuario,Municipio
+68001,68,Santander,Bucaramanga,Municipio
+68013,68,Santander,Aguada,Municipio
+68020,68,Santander,Albania,Municipio
+68051,68,Santander,Aratoca,Municipio
+68077,68,Santander,Barbosa,Municipio
+68079,68,Santander,Barichara,Municipio
+68081,68,Santander,Barrancabermeja,Municipio
+68092,68,Santander,Betulia,Municipio
+68101,68,Santander,Bolívar,Municipio
+68132,68,Santander,California,Municipio
+68147,68,Santander,Capitanejo,Municipio
+68152,68,Santander,Carcasí,Municipio
+68160,68,Santander,Cepitá,Municipio
+68162,68,Santander,Cerrito,Municipio
+68167,68,Santander,Charalá,Municipio
+68176,68,Santander,Chima,Municipio
+68179,68,Santander,Chipatá,Municipio
+68190,68,Santander,Cimitarra,Municipio
+68207,68,Santander,Concepción,Municipio
+68209,68,Santander,Confines,Municipio
+68211,68,Santander,Contratación,Municipio
+68217,68,Santander,Coromoro,Municipio
+68229,68,Santander,Curití,Municipio
+68235,68,Santander,El Carmen De Chucurí,Municipio
+68245,68,Santander,El Guacamayo,Municipio
+68250,68,Santander,El Peñón,Municipio
+68255,68,Santander,El Playón,Municipio
+68264,68,Santander,Encino,Municipio
+68266,68,Santander,Enciso,Municipio
+68271,68,Santander,Florián,Municipio
+68276,68,Santander,Floridablanca,Municipio
+68296,68,Santander,Galán,Municipio
+68298,68,Santander,Gámbita,Municipio
+68307,68,Santander,Girón,Municipio
+68318,68,Santander,Guaca,Municipio
+68322,68,Santander,Guapotá,Municipio
+68324,68,Santander,Guavatá,Municipio
+68327,68,Santander,Güepsa,Municipio
+68344,68,Santander,Hato,Municipio
+68377,68,Santander,La Belleza,Municipio
+68385,68,Santander,Landázuri,Municipio
+68397,68,Santander,La Paz,Municipio
+68406,68,Santander,Lebrija,Municipio
+68418,68,Santander,Los Santos,Municipio
+68425,68,Santander,Macaravita,Municipio
+68432,68,Santander,Málaga,Municipio
+68444,68,Santander,Matanza,Municipio
+68464,68,Santander,Mogotes,Municipio
+68468,68,Santander,Molagavita,Municipio
+68500,68,Santander,Oiba,Municipio
+68502,68,Santander,Onzaga,Municipio
+68533,68,Santander,Páramo,Municipio
+68547,68,Santander,Piedecuesta,Municipio
+68549,68,Santander,Pinchote,Municipio
+68572,68,Santander,Puente Nacional,Municipio
+68573,68,Santander,Puerto Parra,Municipio
+68575,68,Santander,Puerto Wilches,Municipio
+68615,68,Santander,Rionegro,Municipio
+68655,68,Santander,Sabana De Torres,Municipio
+68669,68,Santander,San Andrés,Municipio
+68673,68,Santander,San Benito,Municipio
+68679,68,Santander,San Gil,Municipio
+68682,68,Santander,San Joaquín,Municipio
+68684,68,Santander,San José De Miranda,Municipio
+68689,68,Santander,San Vicente De Chucurí,Municipio
+68705,68,Santander,Santa Bárbara,Municipio
+68720,68,Santander,Santa Helena Del Opón,Municipio
+68755,68,Santander,Socorro,Municipio
+68770,68,Santander,Suaita,Municipio
+68773,68,Santander,Sucre,Municipio
+68820,68,Santander,Tona,Municipio
+68855,68,Santander,Valle De San José,Municipio
+68861,68,Santander,Vélez,Municipio
+68867,68,Santander,Vetas,Municipio
+68872,68,Santander,Villanueva,Municipio
+68895,68,Santander,Zapatoca,Municipio
+70001,70,Sucre,Sincelejo,Municipio
+70110,70,Sucre,Buenavista,Municipio
+70124,70,Sucre,Caimito,Municipio
+70204,70,Sucre,Colosó,Municipio
+70215,70,Sucre,Corozal,Municipio
+70221,70,Sucre,Coveñas,Municipio
+70230,70,Sucre,Chalán,Municipio
+70233,70,Sucre,El Roble,Municipio
+70235,70,Sucre,Galeras,Municipio
+70265,70,Sucre,Guaranda,Municipio
+70400,70,Sucre,La Unión,Municipio
+70418,70,Sucre,Los Palmitos,Municipio
+70429,70,Sucre,Majagual,Municipio
+70473,70,Sucre,Morroa,Municipio
+70508,70,Sucre,Ovejas,Municipio
+70523,70,Sucre,Palmito,Municipio
+70670,70,Sucre,Sampués,Municipio
+70678,70,Sucre,San Benito Abad,Municipio
+70702,70,Sucre,San Juan De Betulia,Municipio
+70708,70,Sucre,San Marcos,Municipio
+70713,70,Sucre,San Onofre,Municipio
+70717,70,Sucre,San Pedro,Municipio
+70742,70,Sucre,San Luis De Sincé,Municipio
+70771,70,Sucre,Sucre,Municipio
+70820,70,Sucre,Santiago De Tolú,Municipio
+70823,70,Sucre,San José De Toluviejo,Municipio
+05206,05,Antioquia,Concepción,Municipio
+05212,05,Antioquia,Copacabana,Municipio
+05308,05,Antioquia,Girardota,Municipio
+73001,73,Tolima,Ibagué,Municipio
+73026,73,Tolima,Alvarado,Municipio
+73030,73,Tolima,Ambalema,Municipio
+73043,73,Tolima,Anzoátegui,Municipio
+73055,73,Tolima,Armero,Municipio
+73067,73,Tolima,Ataco,Municipio
+73124,73,Tolima,Cajamarca,Municipio
+73148,73,Tolima,Carmen De Apicalá,Municipio
+73152,73,Tolima,Casabianca,Municipio
+73168,73,Tolima,Chaparral,Municipio
+73200,73,Tolima,Coello,Municipio
+73217,73,Tolima,Coyaima,Municipio
+73226,73,Tolima,Cunday,Municipio
+73268,73,Tolima,Espinal,Municipio
+73275,73,Tolima,Flandes,Municipio
+73283,73,Tolima,Fresno,Municipio
+73319,73,Tolima,Guamo,Municipio
+73347,73,Tolima,Herveo,Municipio
+73349,73,Tolima,Honda,Municipio
+73352,73,Tolima,Icononzo,Municipio
+73408,73,Tolima,Lérida,Municipio
+73411,73,Tolima,Líbano,Municipio
+73443,73,Tolima,San Sebastián De Mariquita,Municipio
+73449,73,Tolima,Melgar,Municipio
+73504,73,Tolima,Ortega,Municipio
+73520,73,Tolima,Palocabildo,Municipio
+73547,73,Tolima,Piedras,Municipio
+73555,73,Tolima,Planadas,Municipio
+73563,73,Tolima,Prado,Municipio
+73585,73,Tolima,Purificación,Municipio
+73616,73,Tolima,Rioblanco,Municipio
+73624,73,Tolima,Rovira,Municipio
+73671,73,Tolima,Saldaña,Municipio
+73675,73,Tolima,San Antonio,Municipio
+73678,73,Tolima,San Luis,Municipio
+73770,73,Tolima,Suárez,Municipio
+73854,73,Tolima,Valle De San Juan,Municipio
+73861,73,Tolima,Venadillo,Municipio
+73870,73,Tolima,Villahermosa,Municipio
+73873,73,Tolima,Villarrica,Municipio
+76109,76,Valle Del Cauca,Buenaventura,Municipio
+76001,76,Valle Del Cauca,Santiago De Cali,Municipio
+76020,76,Valle Del Cauca,Alcalá,Municipio
+76036,76,Valle Del Cauca,Andalucía,Municipio
+76041,76,Valle Del Cauca,Ansermanuevo,Municipio
+76054,76,Valle Del Cauca,Argelia,Municipio
+76100,76,Valle Del Cauca,Bolívar,Municipio
+76111,76,Valle Del Cauca,Guadalajara De Buga,Municipio
+76113,76,Valle Del Cauca,Bugalagrande,Municipio
+76122,76,Valle Del Cauca,Caicedonia,Municipio
+76126,76,Valle Del Cauca,Calima,Municipio
+76130,76,Valle Del Cauca,Candelaria,Municipio
+76147,76,Valle Del Cauca,Cartago,Municipio
+76233,76,Valle Del Cauca,Dagua,Municipio
+76243,76,Valle Del Cauca,El Águila,Municipio
+76246,76,Valle Del Cauca,El Cairo,Municipio
+76248,76,Valle Del Cauca,El Cerrito,Municipio
+76250,76,Valle Del Cauca,El Dovio,Municipio
+76275,76,Valle Del Cauca,Florida,Municipio
+76306,76,Valle Del Cauca,Ginebra,Municipio
+76318,76,Valle Del Cauca,Guacarí,Municipio
+76364,76,Valle Del Cauca,Jamundí,Municipio
+76377,76,Valle Del Cauca,La Cumbre,Municipio
+76400,76,Valle Del Cauca,La Unión,Municipio
+76403,76,Valle Del Cauca,La Victoria,Municipio
+76497,76,Valle Del Cauca,Obando,Municipio
+76520,76,Valle Del Cauca,Palmira,Municipio
+76563,76,Valle Del Cauca,Pradera,Municipio
+76606,76,Valle Del Cauca,Restrepo,Municipio
+76616,76,Valle Del Cauca,Riofrío,Municipio
+76622,76,Valle Del Cauca,Roldanillo,Municipio
+76670,76,Valle Del Cauca,San Pedro,Municipio
+76736,76,Valle Del Cauca,Sevilla,Municipio
+76823,76,Valle Del Cauca,Toro,Municipio
+76828,76,Valle Del Cauca,Trujillo,Municipio
+76834,76,Valle Del Cauca,Tuluá,Municipio
+76845,76,Valle Del Cauca,Ulloa,Municipio
+76863,76,Valle Del Cauca,Versalles,Municipio
+76869,76,Valle Del Cauca,Vijes,Municipio
+76890,76,Valle Del Cauca,Yotoco,Municipio
+76892,76,Valle Del Cauca,Yumbo,Municipio
+76895,76,Valle Del Cauca,Zarzal,Municipio
+97001,97,Vaupés,Mitú,Municipio
+97161,97,Vaupés,Carurú,Municipio
+97666,97,Vaupés,Taraira,Municipio
+97889,97,Vaupés,Yavaraté,Área no municipalizada
+99001,99,Vichada,Puerto Carreño,Municipio
+99524,99,Vichada,La Primavera,Municipio
+99773,99,Vichada,Cumaribo,Municipio
+27493,27,Chocó,Nuevo Belén De Bajirá,Municipio
+27425,27,Chocó,Medio Atrato,Municipio
+27745,27,Chocó,Sipí,Municipio
+91536,91,Amazonas,Puerto Arica,Área no municipalizada
+91263,91,Amazonas,El Encanto,Área no municipalizada
+91430,91,Amazonas,La Victoria,Área no municipalizada
+27660,27,Chocó,San José Del Palmar,Municipio
+91530,91,Amazonas,Puerto Alegría,Área no municipalizada
+94888,94,Guainía,Morichal,Área no municipalizada
+91460,91,Amazonas,Mirití - Paraná,Área no municipalizada
+50245,50,Meta,El Calvario,Municipio
+50686,50,Meta,San Juanito,Municipio
+94887,94,Guainía,Pana Pana,Área no municipalizada
+94886,94,Guainía,Cacahual,Área no municipalizada
+94885,94,Guainía,La Guadalupe,Área no municipalizada
+27372,27,Chocó,Juradó,Municipio
+97511,97,Vaupés,Pacoa,Área no municipalizada
+15276,15,Boyacá,Floresta,Municipio
+15839,15,Boyacá,Tutazá,Municipio
+15755,15,Boyacá,Socotá,Municipio
+15114,15,Boyacá,Busbanzá,Municipio
+15092,15,Boyacá,Betéitiva,Municipio
+15621,15,Boyacá,Rondón,Municipio
+15762,15,Boyacá,Sora,Municipio
+25807,25,Cundinamarca,Tibirita,Municipio
+97777,97,Vaupés,Papunahua,Área no municipalizada
+25368,25,Cundinamarca,Jerusalén,Municipio
+86755,86,Putumayo,San Francisco,Municipio
+15550,15,Boyacá,Pisba,Municipio
+15377,15,Boyacá,Labranzagrande,Municipio
+85300,85,Casanare,Sabanalarga,Municipio
+15236,15,Boyacá,Chivor,Municipio
+15778,15,Boyacá,Sutatenza,Municipio
+15761,15,Boyacá,Somondoco,Municipio
+15172,15,Boyacá,Chinavita,Municipio
+15022,15,Boyacá,Almeida,Municipio
+05483,05,Antioquia,Nariño,Municipio
+05895,05,Antioquia,Zaragoza,Municipio
+81220,81,Arauca,Cravo Norte,Municipio
+81591,81,Arauca,Puerto Rondón,Municipio
+15514,15,Boyacá,Páez,Municipio
+15135,15,Boyacá,Campohermoso,Municipio
+15090,15,Boyacá,Berbeo,Municipio
+15660,15,Boyacá,San Eduardo,Municipio
+85015,85,Casanare,Chámeza,Municipio
+68370,68,Santander,Jordán,Municipio
+68121,68,Santander,Cabrera,Municipio
+73622,73,Tolima,Roncesvalles,Municipio
+73270,73,Tolima,Falan,Municipio
+68320,68,Santander,Guadalupe,Municipio
+73461,73,Tolima,Murillo,Municipio
+68368,68,Santander,Jesús María,Municipio
+25823,25,Cundinamarca,Topaipí,Municipio
+25871,25,Cundinamarca,Villagómez,Municipio
+25518,25,Cundinamarca,Paime,Municipio
+15401,15,Boyacá,La Victoria,Municipio
+94343,94,Guainía,Barrancominas,Municipio
+25398,25,Cundinamarca,La Peña,Municipio
+68780,68,Santander,Suratá,Municipio
+68169,68,Santander,Charta,Municipio
+25339,25,Cundinamarca,Gutiérrez,Municipio
+15673,15,Boyacá,San Mateo,Municipio
+15332,15,Boyacá,Güicán De La Sierra,Municipio
+68745,68,Santander,Simacota,Municipio
+68524,68,Santander,Palmas Del Socorro,Municipio
+68522,68,Santander,Palmar,Municipio
+85400,85,Casanare,Támara,Municipio
+85225,85,Casanare,Nunchía,Municipio
+25168,25,Cundinamarca,Chaguaní,Municipio
+85136,85,Casanare,La Salina,Municipio
+68686,68,Santander,San Miguel,Municipio
+25328,25,Cundinamarca,Guayabal De Síquima,Municipio
+52258,52,Nariño,El Tablón De Gómez,Municipio
+68498,68,Santander,Ocamonte,Municipio
+25438,25,Cundinamarca,Medina,Municipio
+19022,19,Cauca,Almaguer,Municipio
+19693,19,Cauca,San Sebastián,Municipio
+73686,73,Tolima,Santa Isabel,Municipio
+99624,99,Vichada,Santa Rosalía,Municipio

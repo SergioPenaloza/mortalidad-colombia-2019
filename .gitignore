@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.env
+work/
+*.log
+*.xlsx
+!Anexo1.NoFetal2019_CE_15-03-23.xlsx
+!Anexo2.CodigosDeMuerte_CE_15-03-23.xlsx
+!Divipola_CE_.xlsx
+data/processed/*.tmp
+.DS_Store
+
