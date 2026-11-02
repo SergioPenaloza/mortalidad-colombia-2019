@@ -3,7 +3,10 @@
 Aplicación web interactiva para explorar **244.355 defunciones no fetales registradas
 en Colombia durante 2019**, desarrollada con Python, Dash y Plotly para la Actividad 4.
 
-**Estado:** desarrollo y ejecución local verificados. El repositorio de GitHub ya está creado; la subida de los archivos y el despliegue en Render gratuito están pendientes. La URL pública se añadirá después de verificar el despliegue.
+**Estado:** aplicación publicada en Render gratuito y verificada en su URL pública el 1 de noviembre de 2026.
+
+- **Aplicación web:** [Vital Colombia en Render](https://mortalidad-colombia-2019-n2jx.onrender.com).
+- **Repositorio:** [SergioPenaloza/mortalidad-colombia-2019](https://github.com/SergioPenaloza/mortalidad-colombia-2019).
 
 ## Introducción del proyecto
 
@@ -95,13 +98,13 @@ Probado con **Python 3.12.14**. Se recomienda Python 3.12 para reproducir este e
 | Plotly | 7.1.0 | Gráficas interactivas |
 | pandas | 3.1.0 | Validación, cruces, filtros y agregaciones |
 | openpyxl | 3.1.5 | Lectura de los Excel originales |
-| Waitress | 3.0.2 | Servidor WSGI opcional para ejecución local |
+| Waitress | 3.0.2 | Servidor WSGI para ejecución local y despliegue en Render |
 | pytest | 9.2.0 | Pruebas automatizadas |
 
 La interfaz utiliza CSS propio y fuentes del sistema. Las gráficas, catálogos y
-mapas se sirven desde el proyecto: **la consulta del tablero no necesita Internet**
-una vez instaladas las dependencias y preparados los recursos. Los enlaces a las
-fuentes oficiales sí requieren conexión.
+mapas se sirven desde el proyecto: **la ejecución local no necesita Internet**
+una vez instaladas las dependencias y preparados los recursos. El acceso a la
+aplicación publicada en Render y a los enlaces de las fuentes oficiales sí requiere conexión.
 
 ## Instalación
 
@@ -118,9 +121,12 @@ No es necesario activar el entorno ni cambiar las políticas de PowerShell.
 
 ### Crear el entorno en otra máquina
 
-Repositorio: [SergioPenaloza/mortalidad-colombia-2019](https://github.com/SergioPenaloza/mortalidad-colombia-2019). Una vez cargados los archivos, clone el repositorio o descargue y extraiga su ZIP; luego entre en la carpeta del proyecto.
+Con Git y Python instalados, clone el repositorio, entre en su carpeta y cree
+un entorno exclusivo para el proyecto:
 
 ```powershell
+git clone https://github.com/SergioPenaloza/mortalidad-colombia-2019.git
+cd mortalidad-colombia-2019
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements-dev.txt
 .\.venv\Scripts\python.exe -m src.app
@@ -308,37 +314,97 @@ al endpoint de callbacks de Dash. También verifican el CSV y el restablecimient
 Las pruebas HTTP usan el cliente de Flask, sin abrir un puerto. Complementan la
 revisión manual en navegador; no sustituyen una prueba visual de la interfaz.
 
-Verificación de esta versión: **20 pruebas aprobadas**, dependencias consistentes,
+Verificación local: **20 pruebas aprobadas**, dependencias consistentes,
 revisión visual de las siete vistas y de la versión móvil a 390 px, filtro Bogotá
 (38.760), filtro febrero (17.974), restablecimiento nacional y descarga real de un
 CSV filtrado. No se observaron errores nuevos en la consola tras las correcciones.
 
 ![Vista móvil](docs/screenshots/movil.jpg)
 
-## Despliegue en Render gratuito — pendiente
+## Despliegue en Render gratuito
 
-La plataforma elegida es **Render**, mediante un **Web Service con el plan Free**.
-El repositorio [SergioPenaloza/mortalidad-colombia-2019](https://github.com/SergioPenaloza/mortalidad-colombia-2019)
-ya está creado. La subida de los archivos y el despliegue están pendientes;
-la aplicación todavía no cuenta con una URL pública verificada.
+La aplicación está publicada en [https://mortalidad-colombia-2019-n2jx.onrender.com](https://mortalidad-colombia-2019-n2jx.onrender.com).
+El despliegue utiliza un **Web Service de Render con el plan Free**.
 
-Pasos pendientes:
+### Pasos realizados
 
-1. Subir al repositorio el código, los tres Excel originales, los datos procesados,
-   los recursos cartográficos y la documentación.
-2. Conectar el repositorio a un Web Service de Render y seleccionar el plan Free.
-3. Configurar la versión de Python, la instalación de dependencias y el comando
-   de arranque con `src.app:server`, el puerto indicado por Render y la depuración
-   desactivada. Esta configuración aún no se ha aplicado ni validado en la nube.
-4. Verificar las siete visualizaciones, los filtros, la descarga CSV y `/health`
-   desde la URL pública asignada por Render.
-5. Añadir la URL pública y los pasos efectivamente realizados a este README
-   para completar la entrega académica.
+1. Se creó el repositorio público `SergioPenaloza/mortalidad-colombia-2019` y se subió
+   la rama `main` con el código, los tres Excel originales, los datos procesados,
+   los recursos cartográficos, las capturas y las pruebas.
+2. Se conectó GitHub con Render, seleccionando únicamente el repositorio del proyecto
+   para la instalación de la integración.
+3. Se creó un Web Service con la siguiente configuración:
+
+| Campo | Valor |
+|---|---|
+| Name | `mortalidad-colombia-2019` |
+| Language | `Python 3` |
+| Branch | `main` |
+| Region | `Oregon (US West)` |
+| Root Directory | Vacío; los comandos se ejecutan desde la raíz del repositorio. |
+| Compute | `Free` — USD 0 al mes, 0,1 CPU y 512 MB de RAM. |
+| Variable de entorno | `PYTHON_VERSION=3.12.14` |
+| Health Check Path | `/health` |
+| Auto-Deploy | `On Commit` |
+
+**Build Command**, para instalar las dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
+**Start Command**, para ejecutar la aplicación con Waitress:
+
+```bash
+waitress-serve --listen=0.0.0.0:$PORT src.app:server
+```
+
+Estos comandos se configuran en Render y se ejecutan en su servidor Linux.
+`$PORT` utiliza el puerto proporcionado por Render. `src.app:server` referencia
+el servidor WSGI exportado por la aplicación; no activa el servidor de desarrollo.
+La aplicación carga los archivos procesados y cartográficos incluidos en el
+repositorio, por lo que no es necesario volver a procesar los Excel durante el despliegue.
+
+4. Se pulsó **Deploy Web Service** y se abrió la URL asignada al finalizar el despliegue.
+5. Se verificaron las visualizaciones, los filtros y la respuesta del servidor desde
+   la URL pública. Los resultados de esta revisión se detallan a continuación.
+
+### Verificación de la aplicación publicada
+
+Revisión realizada el **1 de noviembre de 2026** desde el navegador:
+
+- Se cargaron las siete visualizaciones: seis gráficos y la tabla de diez causas.
+- La vista nacional mostró **244.355 defunciones**.
+- El filtro de Bogotá D. C. mostró **38.760 defunciones**.
+- El filtro de febrero mostró **17.974 defunciones**.
+- Febrero con sexo indeterminado mostró **1 defunción**; al añadir edad desconocida,
+  el total fue **0** y apareció el mensaje correspondiente a una selección sin datos.
+- El botón de restablecimiento recuperó la vista nacional y sus **244.355 defunciones**.
+- No se observaron errores en la consola del navegador durante la revisión.
+
+La ruta [de comprobación del servicio](https://mortalidad-colombia-2019-n2jx.onrender.com/health)
+respondió con:
+
+```json
+{"records":244355,"status":"ok","year":2019}
+```
+
+### Funcionamiento del plan gratuito
+
+Render pone el servicio gratuito en reposo después de **15 minutos sin tráfico**.
+La siguiente visita lo reactiva automáticamente y la primera carga puede tardar
+aproximadamente un minuto. El reposo no elimina la aplicación ni su enlace público.
+El servicio está sujeto a los límites mensuales del plan; consulte las
+[condiciones oficiales de Render Free](https://render.com/docs/free).
+
+Con **Auto-Deploy: On Commit**, una nueva subida a la rama `main` inicia otro
+proceso de despliegue. Después de actualizar el proyecto, compruebe su estado
+**Live** en Render y el funcionamiento de la URL pública.
 
 ## Entrega académica
 
 - **Integrante:** Sergio Alejandro Peñaloza Gelves.
-- **URL pública PaaS:** pendiente del despliegue y la verificación en Render gratuito.
+- **URL pública PaaS:** [Vital Colombia en Render](https://mortalidad-colombia-2019-n2jx.onrender.com).
 - **URL del repositorio GitHub:** [mortalidad-colombia-2019](https://github.com/SergioPenaloza/mortalidad-colombia-2019).
 - **Evidencia:** capturas y resultados incluidos en este documento.
 
